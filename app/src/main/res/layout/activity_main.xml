@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:id="@+id/a1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#1de6d1"
+        android:layout_centerInParent="true"
+
+        />
+    <TextView
+        android:id="@+id/a2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#54e647"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/a1"
+        />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#fff200"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/a1"
+
+
+        />
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#15d7ad"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/a1"
+
+
+        />
+    <TextView
+        android:id="@+id/a3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#9000ff"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/a1"
+
+
+        />
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#1c61e1"
+        android:layout_above="@id/a1"
+        android:layout_toLeftOf="@id/a2"
+
+        />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#1ce1c3"
+        android:layout_above="@id/a1"
+        android:layout_toRightOf="@id/a2"
+
+        />
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#dae11c"
+        android:layout_below="@id/a1"
+        android:layout_toLeftOf="@id/a3"
+
+        />
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#e1711c"
+        android:layout_below="@id/a1"
+        android:layout_toRightOf="@id/a3"
+
+        />
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="390dp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+
+        >
+        <TextView
+            android:layout_height="130dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#0b8669"
+
+
+            />
+        <TextView
+            android:layout_height="130dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#23c992"
+
+
+            />
+        <TextView
+            android:layout_height="130dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#9cc72e"
+
+
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_height="130dp"
+        android:layout_width="390dp"
+        android:orientation="horizontal"        >
+        <TextView
+            android:layout_height="130dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#61d142"
+
+
+            />
+        <TextView
+            android:layout_height="130dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#2ec3ce"
+
+
+            />
+        <TextView
+            android:layout_height="130dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#632ece"
+
+
+            />
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_height="130dp"
+        android:layout_width="390dp"
+        android:orientation="horizontal"        >
+        <TextView
+            android:layout_height="130dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#a164ab"
+
+
+            />
+        <TextView
+            android:layout_height="130dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#d984d6"
+
+
+            />
+        <TextView
+            android:layout_height="130dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="#88b5d6"
+
+
+            />
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>
